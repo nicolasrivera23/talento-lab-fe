@@ -25,6 +25,14 @@
   color: #cfd6ed;
 }
 
+.logo {
+  text-align: center;
+}
+
+.img-logo {
+  width: 100%;
+}
+
 .estilo-li {
   list-style-type: none;
 }
@@ -42,6 +50,7 @@ nav {
 p {
   margin: 16px;
 }
+
 .texto {
   font-family: Roboto, Verdana, Tahoma, sans-serif;
 }
